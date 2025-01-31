@@ -9,7 +9,10 @@
                     Muhoroni Impact Hub is a non-profit organization dedicated to improving the lives of people in Muhoroni through education, empowerment, and community development.
                 </p>
                 <p class="mt-4">
-                    Our team works tirelessly to create sustainable solutions that address the root causes of poverty and inequality.
+                    Our mission is: <strong>{{ $mission }}</strong>
+                </p>
+                <p class="mt-4">
+                    Our vision is: <strong>{{ $vision }}</strong>
                 </p>
             </div>
         </div>
